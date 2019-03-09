@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package baitapmang.bt;
 
 /**
  *
  * @author huong.dang
  */
-class scanner {
+class doube {
     
 }
